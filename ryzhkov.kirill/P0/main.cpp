@@ -3,4 +3,4 @@
 int main()
 {
     std::cout << "ryzhkov.kirill\n";
-};
+}
